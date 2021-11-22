@@ -149,23 +149,23 @@
                         <tbody>
     
                             <tr>
-                                <th>Check In</th>
+                                <th>Check-In</th>
                                 <td><h4>{bookingDetails.checkIn}</h4></td>
                             </tr>
                             <tr>
-                                <th>Check Out</th>
+                                <th>Check-Out</th>
                                 <td><h4>{bookingDetails.checkOut}</h4></td>
                             </tr>
                             <tr>
-                                <th>No. of Persons</th>
+                                <th>No. of Adults</th>
                                 <td><h4>{bookingDetails.adults}</h4></td>
                             </tr>
                             <tr>
-                                <th>No. of Childs</th>
+                                <th>No. of Children</th>
                                 <td><h4>{bookingDetails.childs}</h4></td>
                             </tr>
                             <tr>
-                                <th>Total Days</th>
+                                <th>Total Nights</th>
                                 <td><h4>{bookingDetails.totalDays}</h4></td>
                             </tr>
                             <tr>
